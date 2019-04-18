@@ -1,0 +1,41 @@
+title: The blogs of Shang
+home: Shang
+paginate: 8
+email: shinepans@live.com 574273250@qq.com
+production_url: http://panshang.xyz
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://panshang.xyz" # the base hostname & protocol for your site
+permalink: /:year:month:day.html
+
+# Build settings
+highlighter: rouge
+markdown: kramdown  # [ maruku | rdiscount | kramdown | redcarpet ]
+
+kramdown:
+  input:          GFM
+  auto_ids:       true
+  auto_id_prefix: 'id-'
+
+description:   Web developer emial：shinepans@live.com 574273250@qq.com
+username: Shang Pan
+
+user:
+  email: shinepans@live.com
+  github: http://github.com/shinepans
+  weibo: http://weibo.com/shinespy
+  twitter: http://twitter.com/shinepans1
+  weixin: 574273250
+  desc: Experiencing thousands of sails, the heart does not change, the emptiness is open, and the wisdom is ignorant.
+
+pub:
+  css: http://7xq5e5.com1.z0.glb.clouddn.com/css/
+  js: http://7xq5e5.com1.z0.glb.clouddn.com/js/
+  image: http://7xq5e5.com1.z0.glb.clouddn.com/pub/
+
+dev:
+  css: /assets/css/
+  js: /assets/js/
+  image: /assets/images/
+  
+model: dev
+
