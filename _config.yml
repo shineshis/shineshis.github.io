@@ -1,8 +1,8 @@
-title: The blogs of Shang
-home: Shang
+title: The blogs of Heng
+home: Heng
 paginate: 8
-email: shinepans@live.com 574273250@qq.com
-production_url: http://panshang.xyz
+email: chamarry@hotmail.com
+production_url: http://balabala.xyz
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://panshang.xyz" # the base hostname & protocol for your site
 permalink: /:year:month:day.html
@@ -16,15 +16,15 @@ kramdown:
   auto_ids:       true
   auto_id_prefix: 'id-'
 
-description:   Web developer emial：shinepans@live.com 574273250@qq.com
-username: Shang Pan
+description:   Web developer emial：chamarry@hotmail.com
+username: Heng Shi
 
 user:
-  email: shinepans@live.com
-  github: http://github.com/shinepans
-  weibo: http://weibo.com/shinespy
-  twitter: http://twitter.com/shinepans1
-  weixin: 574273250
+  email: chamarry@hotmail.com
+  github: http://github.com/shineshis
+  weibo: http://weibo.com/
+  twitter: http://twitter.com/
+  weixin: 255
   desc: Experiencing thousands of sails, the heart does not change, the emptiness is open, and the wisdom is ignorant.
 
 pub:
